@@ -1,0 +1,9 @@
+Brianna Thompson 
+
+MART120  
+
+Instructor: Micheal Cassens 
+
+Homework 1: Comparing GUI and CLI 
+
+Both GUI and CLI are used to navigate your computer, make changes and add or remove directories or files. The greatest difference between the two is how the user interacts with the terminal. CLI takes the input of code or commands to interact with the system. The GUI, however, uses menus or dialog boxes to execute commands. GUI allows the user to use both mouse and keyboard to interact with their directories through a combination of icons, buttons, dropdowns, windows and various visual elements.  Due to its visual nature, it requires very little knowledge in order to use the terminal and tends to be more user friendly. CLI utilizes command input within the OS or an application. It tends to be more efficient overall and provides greater speeds and control. The tradeoff for this efficiency is that the user has to remember a series of commands and arguments to achieve what you want, which can differ from directory to directory. Another huge difference is how much room there is for user error. When using CLI, inputting the wrong command and argument can delete files without any confirmation, and they are non-recoverable. GUI has little room for error, the user is usually required to confirm various actions before a command is executed, this makes it more intuitive and safer to use for the average user. 
